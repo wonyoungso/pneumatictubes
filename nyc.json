@@ -1,0 +1,44 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Morningside"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.95687103271484,
+          40.8028950718582
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cathedral"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9654541015625,
+          40.799256620052255
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Planetarium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97077560424805,
+          40.78834006798032
+        ]
+      }
+    }
+  ]
+}
