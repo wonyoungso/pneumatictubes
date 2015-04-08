@@ -39,6 +39,22 @@
           40.78834006798032
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "hell gate"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.948974609375,
+          40.79509814519892
+        ]
+      }
     }
   ]
 }
